@@ -1,3 +1,3 @@
 [build]
 command = "pnpm i && pnpm run build --filter='./packages/*' --filter='vue-demo-store...'"
-publish = "path/to/vue-demo-store/dist"  # Update this path based on where the build output of vue-demo-store is located
+publish = "/dist"  # Update this path based on where the build output of vue-demo-store is located
