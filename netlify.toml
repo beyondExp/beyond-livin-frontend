@@ -1,2 +1,0 @@
-[build]
-command = "pnpm i && pnpm run build --filter='./packages/*' --filter='vue-demo-store...'
