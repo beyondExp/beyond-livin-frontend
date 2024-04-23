@@ -1,3 +1,2 @@
 [build]
-command = "pnpm i && pnpm run build --filter='./packages/*' --filter='vue-demo-store...'"
-publish = "/opt/build/repo/dist"
+command = "pnpm i && pnpm run build --filter='./packages/*' --filter='vue-demo-store...'
